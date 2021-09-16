@@ -9,7 +9,11 @@ void main()
     scanf("%s", Name);
     do
     {
+<<<<<<< HEAD
       printf("View is noob");
+=======
+      printf("View is boy or girl? ");
+>>>>>>> c8408ef4255904a7f7dbcc154824adcc7540fc16
       scanf("%s", G);
 
       if (strcmp(G, "A") !=0  &&
