@@ -5,7 +5,7 @@ void main()
   int i;
   do
   {
-    printf("What is your Name? ");
+    printf("View is boy");
     scanf("%s", Name);
     do
     {
